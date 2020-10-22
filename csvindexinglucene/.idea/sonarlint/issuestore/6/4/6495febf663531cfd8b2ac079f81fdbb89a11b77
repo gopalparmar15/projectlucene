@@ -1,0 +1,9 @@
+
+f
+java:S2095"IUse try-with-resources or close this "FSDirectory" in a "finally" clause.(¼¯µ‰8–¥…Õ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(µØñ8è™Ç‚Õ.
+Z
+java:S1197"8Move the array designator from the variable to the type.(Š«ıìşÿÿÿÿ8Ÿƒ‚Õ.
+f
+java:S2095"IUse try-with-resources or close this "IndexWriter" in a "finally" clause.(ÖÇ—Ğ8¶ÏˆÕ.
+]	java:S125"<This block of commented-out lines of code should be removed.(êÏ…×ıÿÿÿÿ8ô‚ï‚Õ.

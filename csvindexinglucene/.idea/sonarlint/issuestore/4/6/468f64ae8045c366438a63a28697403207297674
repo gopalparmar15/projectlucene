@@ -1,0 +1,17 @@
+
+d
+java:S2095"IUse try-with-resources or close this "FSDirectory" in a "finally" clause.(ÃäöŠøÿÿÿÿ
+f	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Î¦˜
+_
+java:S2095"IUse try-with-resources or close this "IndexWriter" in a "finally" clause.(ñÍĞ¿
+G
+java:S1128"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(®°ƒùÿÿÿÿ
+?
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å
+k
+java:S1128"PRemove this unused import 'com.sun.org.apache.xpath.internal.compiler.Keywords'.(®°ƒùÿÿÿÿ
+f	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Î¦˜
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8¿¯ûşÔ.
